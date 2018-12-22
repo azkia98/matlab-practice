@@ -1,3 +1,8 @@
+clear all
+close all
+clc
+
+
 A = imread('1.jpeg');
 imshow(A)
 size(A)
